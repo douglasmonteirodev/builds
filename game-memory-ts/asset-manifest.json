@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.60233c91.js",
+    "static/js/787.898b32c5.chunk.js": "./static/js/787.898b32c5.chunk.js",
+    "static/media/devmemory_logo.png": "./static/media/devmemory_logo.31aff21342d67831dfb3.png",
+    "static/media/b7.svg": "./static/media/b7.030ce82a4369793833abd2a5af412412.svg",
+    "static/media/android.svg": "./static/media/android.879af3173d01da103a8bf12de886cde3.svg",
+    "static/media/moto.svg": "./static/media/moto.359ead36410c69950089a5559a49d608.svg",
+    "static/media/disney.svg": "./static/media/disney.21df5cc102a43c97a0216076afaf0a81.svg",
+    "static/media/gasolina.svg": "./static/media/gasolina.8789bc6ece737e20fe0c8ffbc46d2d4e.svg",
+    "static/media/caminhao.svg": "./static/media/caminhao.59d49eabc54e5d696e18472fa11d55d8.svg",
+    "index.html": "./index.html",
+    "static/media/restart.svg": "./static/media/restart.6354107108c9bb1aaaa1d7988ae98a57.svg",
+    "static/media/estrela.svg": "./static/media/estrela.c697e331212ff0d70a06cab14915dc55.svg",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.60233c91.js.map": "./static/js/main.60233c91.js.map",
+    "787.898b32c5.chunk.js.map": "./static/js/787.898b32c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.60233c91.js"
+  ]
+}
